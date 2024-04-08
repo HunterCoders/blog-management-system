@@ -1,0 +1,35 @@
+body {
+    background-color: rgb(0, 0, 15);
+    font-family: Arial, sans-serif;
+}
+
+.admin-panel {
+    max-width: 600px;
+    margin: 50px auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background-color: rgba(255, 255, 255, 0.1); /* Semi-transparent white background */
+    color: #fff;
+}
+
+.admin-panel h1 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+.admin-panel-link {
+    display: block;
+    padding: 10px 20px;
+    margin-bottom: 10px;
+    font-size: 18px;
+    background-color: #007bff;
+    color: #fff;
+    text-decoration: none;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.admin-panel-link:hover {
+    background-color: #0056b3;
+}

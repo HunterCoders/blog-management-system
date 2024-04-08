@@ -1,0 +1,61 @@
+/* Homepage.css */
+
+.homepage {
+    font-family: Arial, sans-serif;
+  }
+  
+  header {
+    background-color: #98caff21; /* Updated menu bar color */
+    color: white;
+    padding: 10px 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    backdrop-filter: blur(10);
+  }
+  
+  nav ul {
+    list-style-type: none;
+    margin: 0;
+    margin-left: 15px;
+    padding: 0;
+  }
+  
+  nav ul li {
+    display: inline;
+    margin-right: 20px;
+  }
+  
+  nav ul li a {
+    color: white;
+    text-decoration: none;
+    transition: color 0.3s; /* Added transition effect for smoother hover */
+  }
+  
+  nav ul li a:hover {
+    color: #ffcc00; /* Change text color on hover */
+  }
+  
+  .welcome {
+    margin-right: 20px;
+  }
+  
+  main {
+    padding: 20px;
+  }
+  
+  .image-description {
+    text-align: center;
+    color: #333; /* Change text color for the description */
+  }
+  
+  footer {
+    background-color: #14181c; /* Match menu bar color */
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+  }
+  
