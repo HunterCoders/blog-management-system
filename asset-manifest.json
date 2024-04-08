@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/HunterCoders/hackathon/static/css/main.dec9eb94.css",
+    "main.js": "/HunterCoders/hackathon/static/js/main.705fb580.js",
+    "static/js/453.c3ea9b50.chunk.js": "/HunterCoders/hackathon/static/js/453.c3ea9b50.chunk.js",
+    "index.html": "/HunterCoders/hackathon/index.html",
+    "main.dec9eb94.css.map": "/HunterCoders/hackathon/static/css/main.dec9eb94.css.map",
+    "main.705fb580.js.map": "/HunterCoders/hackathon/static/js/main.705fb580.js.map",
+    "453.c3ea9b50.chunk.js.map": "/HunterCoders/hackathon/static/js/453.c3ea9b50.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dec9eb94.css",
+    "static/js/main.705fb580.js"
+  ]
+}
