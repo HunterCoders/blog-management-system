@@ -10,10 +10,10 @@ function Homepage() {
       <header>
         <nav>
           <ul>
-            <li><a href="http://localhost:3000/register">Register</a></li>
-            <li><a href="http://localhost:3000/login">Login</a></li>
-            <li><a href="http://localhost:3000/admin">Admin Login</a></li>
-            <li><a href="http://localhost:3000/inventory">Inventory</a></li>
+            <li><a href="/register">Register</a></li>
+            <li><a href="/login">Login</a></li>
+            <li><a href="/admin">Admin Login</a></li>
+            <li><a href="/inventory">Inventory</a></li>
           </ul>
         </nav>
         <div className="welcome">Welcome {name.get('name') && <div>{name.get('name')}</div>}</div>
