@@ -1,6 +1,6 @@
 import React from 'react';
 import './css/Homepage.css'; // Import CSS file for styling
-import { useSearchParams } from 'react-router-dom';
+import { useSearchParams,Link } from 'react-router-dom';
 
 function Homepage() {
   const [name]=useSearchParams();
@@ -11,7 +11,7 @@ function Homepage() {
         <nav>
           <ul>
             <li><a href="/register">Register</a></li>
-            <li><a href="/login">Login</a></li>
+            <li><Link to="/login">Login</Link></li>
             <li><a href="/admin">Admin Login</a></li>
             <li><a href="/inventory">Inventory</a></li>
           </ul>
