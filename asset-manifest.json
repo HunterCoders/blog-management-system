@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/hackathon/static/css/main.5117911a.css",
-    "main.js": "/hackathon/static/js/main.d8a5359e.js",
-    "static/js/453.afb0950b.chunk.js": "/hackathon/static/js/453.afb0950b.chunk.js",
-    "index.html": "/hackathon/index.html",
-    "main.5117911a.css.map": "/hackathon/static/css/main.5117911a.css.map",
-    "main.d8a5359e.js.map": "/hackathon/static/js/main.d8a5359e.js.map",
-    "453.afb0950b.chunk.js.map": "/hackathon/static/js/453.afb0950b.chunk.js.map"
+    "main.css": "/blog-management-system/static/css/main.5117911a.css",
+    "main.js": "/blog-management-system/static/js/main.bf2f66e9.js",
+    "static/js/453.afb0950b.chunk.js": "/blog-management-system/static/js/453.afb0950b.chunk.js",
+    "index.html": "/blog-management-system/index.html",
+    "main.5117911a.css.map": "/blog-management-system/static/css/main.5117911a.css.map",
+    "main.bf2f66e9.js.map": "/blog-management-system/static/js/main.bf2f66e9.js.map",
+    "453.afb0950b.chunk.js.map": "/blog-management-system/static/js/453.afb0950b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5117911a.css",
-    "static/js/main.d8a5359e.js"
+    "static/js/main.bf2f66e9.js"
   ]
 }
